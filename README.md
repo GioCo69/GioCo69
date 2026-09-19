@@ -32,6 +32,7 @@ C++ · Qt · PHP · Py · SQL · Docker · OOA-D-P ·
 ### 📫 Contatti
 - **Progetto il Seme** — [è una cooperativa di tipo B dove lavoro come educatore e sviluppatore](https://progettoilseme.it/)
 
+## 🛠️ Stack
 <!--
 Badge shields.io pronti da adattare — cambia solo i nomi/colori,
 elimina quelli che non usi:
@@ -67,7 +68,7 @@ elimina quelli che non usi:
 
 ## 😄 Fun fact
 
-L'associazionismo è morto: meno male, di quei vecchi ottusi altruisti non ne potevamo più !
+L'associazionismo è **morto**: meno male, di quei vecchi ottusi altruisti non ne potevamo più !
 
 <!--
 Sezioni decorative che si possono aggiungere dopo, non necessarie ora:
