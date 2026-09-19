@@ -40,11 +40,6 @@ elimina quelli che non usi:
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## 📫 Come contattarmi (opzionale)
-
-- [email pubblica, se vuoi esporla]
-- [altri canali: LinkedIn, sito, forum, altro]
-
 ## 😄 Fun fact (opzionale)
 
 L'associazionismo è morto: meno male, di quei vecchi ottusi altruisti non ne potevamo più !
