@@ -22,7 +22,7 @@ sono un nerd attempato che vive sognando di donare al prossimo meno fortunato es
 ## 🌱 Cosa sto imparando / esplorando
 
 - sto imparanto a usare Claude Code, Codex con VSCode e modellazione 3d (Blender) in MSP
-- sto eplorando l'I.A. (modelli/provider) per generazioni combiante (per sempio far fare l'audit a una e piano/intervento all'altra)
+- sto eplorando l'I.A. (modelli/provider) per generazioni combinate (per sempio far fare l'audit a una e piano/intervento all'altra)
 - sto sviluppando micro-applicativi di office automation anche in previsione di usi combinati con l'I.A. via gateway e off-line (stable studio)
 - sto imparando a ottimizzare i processi di sviluppo con le tecniche più avanzate in C++, PHP, py (backend e desktop) per CRUD
 
