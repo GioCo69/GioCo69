@@ -12,6 +12,10 @@ Acronimo del mio Nome Gio(rgio) Co(dazzi) è da anni anche la mia firma nei cont
 Appassionato di giochi, educatore, programatore, nonché conduttore di ludoteche per persone con autismo, 
 sono un nerd attempato che vive sognando di donare al prossimo meno fortunato esperienze memorabili.
 
+### 🎵 A little soundtrack (▶️ Listen to my track)
+
+🎧 [**Laughing as the Shadows Rise**](https://github.com/GioCo69/GioCo69/blob/main/Laughing-as-the-Shadows-Rise.mp3)
+
 ---
 
 ### 🚀 Progetti
